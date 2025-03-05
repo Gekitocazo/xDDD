@@ -107,3 +107,15 @@
 [14:13:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b55088f6-471a-355c-aa85-7086aa1f8e7e
 [14:13:38] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Gekito (b55088f6-471a-355c-aa85-7086aa1f8e7e) successfully connected to voice chat
 [14:18:46] [Server thread/INFO]: Villager Villager['Farmer'/138, uuid='3256b912-999a-439f-895a-e3797e2372fb', l='ServerLevel[world]', x=321.70, y=64.94, z=116.34, cpos=[20, 7], tl=247105, v=true] died, message: 'Farmer was slain by Zombie'
+[14:47:41] [Server thread/INFO]: [Not Secure] [Server] a
+[14:47:47] [Async Chat Thread - #1/INFO]: [Not Secure] <Gekito> cocooc
+[14:47:51] [Server thread/INFO]: Unknown or incomplete command, see below for error
+a<--[HERE]
+[14:47:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+asd<--[HERE]
+[14:47:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+as<--[HERE]
+[14:47:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+das<--[HERE]
+[14:47:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
+d<--[HERE]
