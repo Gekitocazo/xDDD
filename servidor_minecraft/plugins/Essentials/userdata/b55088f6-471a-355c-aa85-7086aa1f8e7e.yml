@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1741188039044
-  login: 1741184016722
+  logout: 1741203713183
+  login: 1741203676959
 money: '0'
 last-account-name: Gekito
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: bce9203d-1b17-443e-a022-04d076d8ce15
   world-name: world
-  x: 274.72357147271856
-  y: 64.875
-  z: 63.28121584526027
-  yaw: -155.0997314453125
-  pitch: 43.65000534057617
+  x: 271.7082144499427
+  y: 63.9375
+  z: 50.04173067544478
+  yaw: -175.79986572265625
+  pitch: 55.35000228881836
