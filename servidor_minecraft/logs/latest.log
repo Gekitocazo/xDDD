@@ -133,3 +133,11 @@
 [10:55:57] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [10:55:58] [VoiceChatServerThread/INFO]: [voicechat] Voice host is 'western-array.gl.at.ply.gg:3014'
 [10:55:58] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 3014
+[11:15:18] [User Authenticator #0/INFO]: UUID of player Gekito is b55088f6-471a-355c-aa85-7086aa1f8e7e
+[11:15:20] [Server thread/INFO]: Gekito joined the game
+[11:15:20] [Server thread/INFO]: Gekito[/127.4.64.75:60869] logged in with entity id 21 at ([world]300.4825253423601, 62.9375, 53.26195247353402)
+[11:15:21] [Server thread/INFO]: [voicechat] Received secret request of Gekito (18)
+[11:15:21] [Server thread/INFO]: [voicechat] Sent secret to Gekito
+[11:15:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player b55088f6-471a-355c-aa85-7086aa1f8e7e
+[11:15:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player b55088f6-471a-355c-aa85-7086aa1f8e7e
+[11:15:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Gekito (b55088f6-471a-355c-aa85-7086aa1f8e7e) successfully connected to voice chat
