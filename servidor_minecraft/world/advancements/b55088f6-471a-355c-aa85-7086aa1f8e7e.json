@@ -893,5 +893,17 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-05 15:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-03-05 15:04:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3953
 }
