@@ -119,3 +119,18 @@ as<--[HERE]
 das<--[HERE]
 [14:47:52] [Server thread/INFO]: Unknown or incomplete command, see below for error
 d<--[HERE]
+[14:57:00] [User Authenticator #1/INFO]: UUID of player Quesitos is abf4198c-c898-3d1e-a8f3-d6c3eac74c6a
+[14:57:02] [Server thread/INFO]: Quesitos joined the game
+[14:57:02] [Server thread/INFO]: Quesitos[/127.66.197.61:39949] logged in with entity id 7298 at ([world]308.82965468998594, 63.0, 70.29218057908595)
+[14:57:02] [Server thread/INFO]: [voicechat] Received secret request of Quesitos (18)
+[14:57:02] [Server thread/INFO]: [voicechat] Sent secret to Quesitos
+[14:57:03] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player abf4198c-c898-3d1e-a8f3-d6c3eac74c6a
+[14:57:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player abf4198c-c898-3d1e-a8f3-d6c3eac74c6a
+[14:57:04] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Quesitos (abf4198c-c898-3d1e-a8f3-d6c3eac74c6a) successfully connected to voice chat
+[14:59:09] [Server thread/INFO]: Quesitos has made the advancement [Acquire Hardware]
+[14:59:23] [Server thread/INFO]: Quesitos has made the advancement [Suit Up]
+[15:00:00] [Server thread/INFO]: Quesitos has made the advancement [Isn't It Iron Pick]
+[15:00:23] [Server thread/INFO]: Gekito has made the advancement [Isn't It Iron Pick]
+[15:02:34] [Server thread/INFO]: Quesitos lost connection: Disconnected
+[15:02:34] [Server thread/INFO]: [voicechat] Disconnecting client Quesitos
+[15:02:34] [Server thread/INFO]: Quesitos left the game
